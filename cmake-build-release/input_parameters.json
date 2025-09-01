@@ -1,0 +1,19 @@
+{
+  "nx": 400,
+  "ny": 400,
+  "xmin": 0.0,
+  "xmax": 1.0,
+  "ymin": 0.0,
+  "ymax": 1.0,
+  "rho": 1.0,
+  "lid_velocity": 1.0,
+  "Reynolds_number": 1000,
+  "u_iter_max": 30,
+  "v_iter_max": 30,
+  "pressure_iter_max": 30,
+  "beta": 0.9,
+  "alpha_u": 0.45,
+  "alpha_v": 0.45,
+  "alpha_p": 0.8,
+  "global_tol": 1.0e-6
+}
